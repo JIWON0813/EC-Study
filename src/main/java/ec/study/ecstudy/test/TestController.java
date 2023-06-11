@@ -1,4 +1,4 @@
-package ec.study.ecstudy.controller.test;
+package ec.study.ecstudy.test;
 
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.GetMapping;
